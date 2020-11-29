@@ -7,7 +7,6 @@ body{
     justify-content: center;
     align-items: center;
 }
-.container{
-    width: 720px;
-    height: 560px;
+canvas{
+    position: absolute;
 }
