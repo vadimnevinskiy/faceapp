@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 90vw;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 720px;
+    height: 560px;
+}
